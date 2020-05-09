@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: kintohub-is-cool-api
+endpoints:
+  beans:
+    enabled: true
+    sensitive: false

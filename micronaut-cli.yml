@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: kintohub.is.cool.api
+---
+testFramework: junit
+sourceLanguage: java
